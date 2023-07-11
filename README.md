@@ -1,2 +1,2 @@
 # File-Flatten-Utility
-Utility project to help move big amounts of files and unpackage for later
+This is a program that acts as a file directory utility. You can either flatten an entire system of files into one single directory of files using a dictionary to store the paths, and you can do the reverse and unflatten a single directory into a system of files. It utilizes the tkinter gui library to allow the user to choose which folder they want to use and it also uses the os library to traverse through folders. The other program atteched is a simple script that allows a user to gather every file in a system of directories that ends with a certain extension like '.html' or '.py'.
