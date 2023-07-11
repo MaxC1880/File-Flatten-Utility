@@ -1,4 +1,4 @@
-# File Directory Utility
+# File Flattener Utility
 This Python program acts as a file directory utility, providing functionality to flatten an entire system of files into a single directory or unflatten a single directory into a system of files. It utilizes a dictionary to store file paths for the operations.
 
 ## Installation
