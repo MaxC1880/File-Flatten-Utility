@@ -15,10 +15,10 @@ To use this program, follow the steps below:
 1. Run the program by executing the Python script: "python file_directory_utility.py"
 
 2. You will be presented with a menu of options:
-  Please select an option:
+  "Please select an option:
   0: Exit program
   1: Collapse directory to flat files
-  2: Uncollapse flat files to directory
+  2: Uncollapse flat files to directory"
   
 3. Select the desired option by entering the corresponding number.
 
